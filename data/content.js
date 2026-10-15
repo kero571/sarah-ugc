@@ -127,8 +127,16 @@ export const DELIVERABLES = [
 ];
 
 export const SOCIALS = [
-  { label: "Instagram", href: "https://instagram.com/" },
-  { label: "TikTok", href: "https://tiktok.com/" },
-  { label: "YouTube", href: "https://youtube.com/" },
-  { label: "Pinterest", href: "https://pinterest.com/" },
+  {
+    label: "Instagram",
+    href: "https://www.instagram.com/sarah_fekry__?stkn=MWRuaTA2NTNwZXBycw%3D%3D&utm_source=qr",
+  },
+  {
+    label: "TikTok",
+    href: "https://www.tiktok.com/@saramohemd06?_r=1&_t=ZS-9A8uho7opr5",
+  },
+  {
+    label: "facebook",
+    href: "https://www.facebook.com/share/1FHGKyo5gg/?mibextid=wwXIfr",
+  },
 ];
